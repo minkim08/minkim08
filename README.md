@@ -1,10 +1,10 @@
 ## Hi there 👋
 - 🦆 I'm a 3B Computer Engineering undergraduate at the University of Waterloo.
-- 🔭 I’m currently looking for Winter 2025 internship opportunities.
+- 🔭 I’m currently looking for Winter and Summer 2025 SWE internship opportunities.
 - 📫 You can reach me by email @ j728kim@uwaterloo.ca
 - *__or...__* connect with me on [LinkedIn](https://www.linkedin.com/in/minkim08/).
 
-![Cat bopping head](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG0xZ243MHVpZmZvcHdlZ2R0YnA1YzEzeGxrZWNkOG9mYnJ1MWt6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GeimqsH0TLDt4tScGw/giphy.gif)
+![Cat typing rapidly](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13amQ2MHJ2Ym1ta3Y0cGI5d2FjcWYwN245eWJ0eWRybWJ1eXhrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif)
 <!--
 **minkim08/minkim08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
