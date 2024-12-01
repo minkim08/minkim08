@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🦆 I'm a 3B Computer Engineering undergraduate at the University of Waterloo.
-- 🔭 I’m currently looking for Winter and Summer 2025 SWE internship opportunities.
+- 🔭 I’m currently looking for Summer 2025 SWE internship opportunities.
 - 📫 You can reach me by email @ j728kim@uwaterloo.ca
 - *__or...__* connect with me on [LinkedIn](https://www.linkedin.com/in/minkim08/).
 
