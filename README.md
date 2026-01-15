@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🦆 I'm a 4th year Computer Engineering undergraduate at the University of Waterloo.
 - 💻 I'm currently a Software Engineer Intern at [Shopify](https://www.shopify.com/).
-- 🔭 I’m currently looking for Winter 2026 SWE internship opportunities.
+- 🔭 I’m currently looking for Fall 2026 SWE internship opportunities.
 - 📫 You can reach me by email @ j728kim@uwaterloo.ca
 - *__or...__* connect with me on [LinkedIn](https://www.linkedin.com/in/minkim08/).
 
