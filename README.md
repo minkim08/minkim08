@@ -1,22 +1,80 @@
-## Hi there 👋
-- 🦆 I'm a 4th year Computer Engineering undergraduate at the University of Waterloo.
-- 💻 I'm currently a Software Engineer Intern at [Shopify](https://www.shopify.com/).
-- 🔭 I’m currently looking for Fall 2026 SWE internship opportunities.
-- 📫 You can reach me by email @ j728kim@uwaterloo.ca
-- *__or...__* connect with me on [LinkedIn](https://www.linkedin.com/in/minkim08/).
+<h1 align="center">Hey, I'm Joshua 👋</h1>
 
-![Cat typing rapidly](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG13amQ2MHJ2Ym1ta3Y0cGI5d2FjcWYwN245eWJ0eWRybWJ1eXhrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H1dxi6xdh4NGQCZSvz/giphy.gif)
-<!--
-**minkim08/minkim08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; Software Engineer Intern @ Shopify
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:j728kim@uwaterloo.ca">📫 j728kim@uwaterloo.ca</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/minkim08/">💼 LinkedIn</a> &nbsp;·&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+- 🎓 4th year **Computer Engineering** undergraduate at the **University of Waterloo**
+- 💻 Currently a **Software Engineer Intern @ [Shopify](https://www.shopify.com/)**
+- 🔭 Actively looking for **Fall 2026 SWE internship** opportunities
+- ⚙️ Passionate about **data engineering**, **distributed systems**, and **backend development**
+
+---
+
+## 💼 Experience
+
+| Company | Role | Terms |
+|---|---|---|
+| 🛍️ **[Shopify](https://www.shopify.com/)** | Software Engineer Intern (3x) | S25, F25, W26 |
+| 📧 **[Constant Contact](https://www.constantcontact.com/)** | Software Engineer Intern | W25 |
+| 🔬 **High Q Technologies** | Software Engineer Intern | S23 |
+| 🚗 **[Ford Motor Company](https://www.ford.com/)** | Software Engineer Intern | F22 |
+
+---
+
+## 🛠️ Tech Stack
+ 
+**Languages**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+ 
+**Data & Streaming**
+ 
+![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=flat&logo=apacheflink&logoColor=white)
+![Apache Beam](https://img.shields.io/badge/Apache%20Beam-FF6600?style=flat&logo=apache&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat&logo=clickhouse&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
+ 
+**Frameworks & Libraries**
+ 
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+ 
+**Infrastructure & Tools**
+ 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+---
+
+## 📫 Let's Connect
+
+<p>
+  <a href="mailto:j728kim@uwaterloo.ca">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/minkim08/">LinkedIn</a>
+</p>
