@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Joshua 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; Software Engineer Intern @ Shopify
+  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; Prev. Software Engineer Intern @ Shopify
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 ## About Me
 
 - 🎓 4th year **Computer Engineering** undergraduate at the **University of Waterloo**
-- 💻 Currently a **Software Engineer Intern @ [Shopify](https://www.shopify.com/)**
-- 🔭 Actively looking for **Fall 2026 SWE internship** opportunities
+- 💻 Most recently a **Software Engineer Intern @ [Shopify](https://www.shopify.com/)**
+- 🔭 Actively looking for **Fall 2026 SWE internship** and **2027 New Grad SWE** opportunities
 - ⚙️ Passionate about **data engineering**, **distributed systems**, and **backend development**
 
 ---
