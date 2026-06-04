@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="mailto:j728kim@uwaterloo.ca">📫 j728kim@uwaterloo.ca</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/minkim08/">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/minkim08/">💼 LinkedIn</a>
 </p>
 
 ---
