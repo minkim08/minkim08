@@ -15,7 +15,7 @@
 
 - 🎓 4th year **Computer Engineering** undergraduate at the **University of Waterloo**
 - 💻 Most recently a **Software Engineer Intern @ [Shopify](https://www.shopify.com/)**
-- 🔭 Actively looking for **Fall 2026 SWE internship** and **2027 New Grad SWE** opportunities
+- 🔭 Actively looking for **2027 New Grad SWE** opportunities
 - ⚙️ Passionate about **data engineering**, **distributed systems**, and **backend development**
 
 ---
@@ -24,6 +24,7 @@
 
 | Company | Role | Terms |
 |---|---|---|
+| 🔜 **Something soon...** |TBD|F26|
 | 🛍️ **[Shopify](https://www.shopify.com/)** | Software Engineer Intern (3x) | S25, F25, W26 |
 | 📧 **[Constant Contact](https://www.constantcontact.com/)** | Software Engineer Intern | W25 |
 | 🔬 **High Q Technologies** | Software Engineer Intern | S23 |
