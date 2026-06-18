@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Joshua 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; Prev. Software Engineer Intern @ Shopify
+  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; <b>Incoming @ Radar 📍</b> &nbsp;|&nbsp; <b>Prev. Software Engineer Intern @ Shopify</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## About Me
 
 - 🎓 4th year **Computer Engineering** undergraduate at the **University of Waterloo**
-- 💻 Most recently a **Software Engineer Intern @ [Shopify](https://www.shopify.com/)**
+- 💻 Incoming **Software Engineer Intern @ [Radar](https://www.radar.com/)**
 - 🔭 Actively looking for **2027 New Grad SWE** opportunities
 - ⚙️ Passionate about **data engineering**, **distributed systems**, and **backend development**
 
@@ -24,7 +24,7 @@
 
 | Company | Role | Terms |
 |---|---|---|
-| 🔜 **Something soon...** |TBD|F26|
+| 📍 **[Radar](https://www.radar.com/)** | Software Engineer Intern | F26 |
 | 🛍️ **[Shopify](https://www.shopify.com/)** | Software Engineer Intern (3x) | S25, F25, W26 |
 | 📧 **[Constant Contact](https://www.constantcontact.com/)** | Software Engineer Intern | W25 |
 | 🔬 **High Q Technologies** | Software Engineer Intern | S23 |
