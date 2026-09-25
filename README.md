@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Joshua 👋</h1>
 
 <p align="center">
-  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; <b>Incoming @ Radar 📍</b> &nbsp;|&nbsp; <b>Prev. Software Engineer Intern @ Shopify</b>
+  <b>Computer Engineering @ University of Waterloo</b> &nbsp;|&nbsp; <b>Software Engineer Intern @ Radar 📍</b> &nbsp;|&nbsp; <b>Prev. Software Engineer Intern @ Shopify</b>
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ## About Me
 
 - 🎓 4th year **Computer Engineering** undergraduate at the **University of Waterloo**
-- 💻 Incoming **Software Engineer Intern @ [Radar](https://www.radar.com/)**
+- 💻 **Software Engineer Intern @ [Radar](https://www.radar.com/)**
 - 🔭 Actively looking for **2027 New Grad SWE** opportunities
 - ⚙️ Passionate about **data engineering**, **distributed systems**, and **backend development**
 
